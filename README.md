@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Blockchain
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
-- 📫 Reach me - saswatsusmoy9@gmail.com
+- 📫 Reach me - tech@saswatsusmoy.in
 
 <!---
 Saswatsusmoy/Saswatsusmoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
